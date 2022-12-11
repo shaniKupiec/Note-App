@@ -1,4 +1,4 @@
-# About-Me-React
-project number 1 in scrimba react course
+# Note App
+project number 6 in scrimba react course
 
-<p><a href="https://silver-chimera-ebe747.netlify.app/" target="blank">link to view page</a> </p>
+<p><a href="" target="blank">link to view page</a> </p>
